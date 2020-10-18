@@ -17,7 +17,7 @@ Este é um projeto desenvolvido durante a [Next Level Week](https://nextlevelwee
 ```bash
 
 # Faça um clone do repositorio
-$ git clone https://github.com/Joao-Vitor-O/nlw
+$ git clone https://github.com/Joao-Vitor-O/nlw.git
 
 # Comando para acessar o projeto na pasta
 $ cd nlw
